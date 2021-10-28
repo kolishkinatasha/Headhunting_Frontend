@@ -1,0 +1,36 @@
+.tab_box {
+  padding: 30px 0;
+}
+.tab {
+  cursor: pointer;
+  padding: 15px;
+  align-items: center;
+  min-width: 280px;
+  display: flex;
+  opacity: 0.5;
+  position: relative;
+  &:hover {
+    transition: 0.3s;
+    padding: 15px 20px;
+    opacity: 1;
+  }
+}
+.active {
+  transition: 0.3s;
+  padding: 15px 20px;
+  opacity: 1;
+}
+.active::before {
+  content: '';
+  border: 10px solid transparent;
+  border-left: 10px solid red;
+  z-index: 1;
+  left: -10px;
+  position: absolute;
+}
+
+.tab_name {
+  white-space: nowrap;
+  width: 100%;
+  padding-left: 25px;
+}

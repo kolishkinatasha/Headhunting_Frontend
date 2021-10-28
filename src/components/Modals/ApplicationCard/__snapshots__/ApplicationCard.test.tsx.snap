@@ -1,0 +1,4348 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ApplicationCard should be the same 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <form
+        autocomplete="off"
+        class="container"
+        novalidate=""
+      >
+        <div
+          class="block"
+        >
+          <h3
+            class="fns-typography fns-typography_h3 title"
+          >
+            Общая информация по вакансии
+          </h3>
+          <div
+            class="fns-row block_content"
+          >
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Вакансия штатного расписания
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="web-разработчик React"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              web-разработчик React
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              разработчик Golang
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              разработчик Java
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              разработчик PHP
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Наименование вакансии для подбора
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="web-разработчик React"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              web-разработчик React
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              разработчик Golang
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              разработчик Java
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              разработчик PHP
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Основание для подбора
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="Новый проект"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Новый проект
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Расширение текущего проекта
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Обоснование
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="whyisitneeded"
+                    id="large"
+                    placeholder="Текст"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Характер работы
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="Гибридный"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Удаленно
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Гибридный
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              В офисе
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Локация
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="Москва"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Москва
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Уфа
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Екатеринбург
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Аккаунт
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="ФИО"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Иванов Иван Сергеевич
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Иванов Иван Иванович
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Иванов Сергей Аккаунтович
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Департамент
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="Департамент управления проектами"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Департамент управления проектами
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Департамент клиентской поддержки
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Департамент HR
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-3 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Заработная плата
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="payment"
+                    id="large"
+                    placeholder="60 000"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-3 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Количество вакансий
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="numberofvacancies"
+                    id="large"
+                    placeholder="3"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Проект
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="project"
+                    id="large"
+                    placeholder="Сбербанк Молл"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="block"
+        >
+          <h3
+            class="fns-typography fns-typography_h3 title"
+          >
+            Требования к компетентности сотрудника
+          </h3>
+          <div
+            class="fns-row block_content"
+          >
+            <div
+              class="fns-col fns-col_xs-12 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Образование
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="Высшее"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Высшее
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Высшее неполное
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Полное среднее
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Среднее профессиональное
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <h5
+              class="fns-typography fns-typography_bold fns-typography_h5 title"
+            >
+              Специальные знания, умения и профессиональные навыки
+            </h5>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Основные навыки
+              </div>
+              <div
+                class="fns-select fns-select_multiple fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="Javascript"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Навык 1
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Навык 2
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Навык 3
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Навык 4
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Дополнительные навыки
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="extraskills"
+                    id="large"
+                    placeholder="Текст"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <h5
+              class="fns-typography fns-typography_bold fns-typography_h5 title"
+            >
+              Опыт работы
+            </h5>
+            <div
+              class="fns-col fns-col_xs-3 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Количество лет
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="1-3"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              1-3
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              3-5
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              5-8
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-9 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Требуемый опыт
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="requiredexperience"
+                    id="large"
+                    placeholder="Опыт в финансовой корпорации"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-12 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Должностные обязанности
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="jobduties"
+                    id="large"
+                    placeholder="Текст"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-4 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                График работы
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="5/2"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              5/2
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              2/2
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              1/3
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-3 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Занятость
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="Полная"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Полная
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Частичная
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-5 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Испытательный срок
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="probation"
+                    id="large"
+                    placeholder="3"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Наличие премирования
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="Да"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Да
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Нет
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="block"
+        >
+          <h3
+            class="fns-typography fns-typography_h3 title"
+          >
+            Информация HR
+          </h3>
+          <div
+            class="fns-row block_content"
+          >
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Сложность
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="complexity"
+                    id="large"
+                    placeholder="Число"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Приоритет
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="priority"
+                    id="large"
+                    placeholder="Число"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-12 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Рекрутер
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="hr"
+                    id="large"
+                    placeholder="Текст"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Номер вакансии из свободного бюджета
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="пока нет на бэке"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  HR партнер
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="hrpartner"
+                    id="large"
+                    placeholder="Текст"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Статус для Аккаунта
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="На рассмотрении"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              На рассмотрении
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Черновик
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              На согласовании
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Отклонена
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              На исполнении
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Согласование с руководством
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Приостановлена
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Исполнена
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Закрыта
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-typography fns-typography_bold input_title"
+              >
+                Статус заявки
+              </div>
+              <div
+                class="fns-select fns-select_searching fns-select_fullWidth input"
+              >
+                <div
+                  class="fns-dropdown fns-dropdown_fullWidth"
+                  role="menu"
+                  tabindex="-1"
+                >
+                  <div
+                    class="fns-dropdown__target"
+                  >
+                    <label
+                      class="fns-select__label"
+                    />
+                    <div
+                      class="fns-select__selector"
+                    >
+                      <span
+                        class="fns-select__selection"
+                      >
+                        <input
+                          class="fns-select__input"
+                          placeholder="На рассмотрении"
+                          type="text"
+                          value=""
+                        />
+                      </span>
+                      <i
+                        class="fns-icon icon-arrow_down_short fns-select__arrow"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                  >
+                    <div
+                      class="fns-dropdown-content__box fns-select__options"
+                    >
+                      <ul
+                        class="fns-menu"
+                      >
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              На рассмотрении
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Черновик
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              На согласовании
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Отклонена
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              На исполнении
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Согласование с руководством
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Приостановлена
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Исполнена
+                            </span>
+                          </a>
+                        </li>
+                        <li
+                          aria-selected="true"
+                          class="fns-menu-item"
+                          role="option"
+                        >
+                          <a
+                            class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                          >
+                            <span>
+                              Закрыта
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-6 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Колличество подобранных вакансий
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="numberofdonevacancies"
+                    id="large"
+                    placeholder="Число"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-9 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  ФИО кандидатов
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="applicantsfio"
+                    id="large"
+                    placeholder="Текст"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-3 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Дата выхода на работу
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name=""
+                    id="large"
+                    placeholder="пока нет на бэке"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-9 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Проводящие собеседования
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="interviewers"
+                    id="large"
+                    placeholder="Текст"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-col fns-col_xs-9 col"
+            >
+              <div
+                class="fns-textAreaField fns-textAreaField_fullWidth input"
+              >
+                <label
+                  class="fns-textAreaField__label"
+                  for="large"
+                >
+                  Наставники
+                </label>
+                <div
+                  aria-hidden="true"
+                  class="fns-textAreaField__formControl"
+                >
+                  <textarea
+                    class="fns-textAreaField__input"
+                    data-name="mentors"
+                    id="large"
+                    placeholder="Текст"
+                    style="margin: 5px; height: 0px;"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="fns-row fns-row_end row_buttons"
+        >
+          <button
+            class="fns-button fns-button_fill fns-button_primary btn"
+            type="submit"
+          >
+            <span>
+              Отправить заявку
+            </span>
+          </button>
+        </div>
+      </form>
+    </div>
+  </body>,
+  "container": <div>
+    <form
+      autocomplete="off"
+      class="container"
+      novalidate=""
+    >
+      <div
+        class="block"
+      >
+        <h3
+          class="fns-typography fns-typography_h3 title"
+        >
+          Общая информация по вакансии
+        </h3>
+        <div
+          class="fns-row block_content"
+        >
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Вакансия штатного расписания
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="web-разработчик React"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            web-разработчик React
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            разработчик Golang
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            разработчик Java
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            разработчик PHP
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Наименование вакансии для подбора
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="web-разработчик React"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            web-разработчик React
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            разработчик Golang
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            разработчик Java
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            разработчик PHP
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Основание для подбора
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="Новый проект"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Новый проект
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Расширение текущего проекта
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Обоснование
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="whyisitneeded"
+                  id="large"
+                  placeholder="Текст"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Характер работы
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="Гибридный"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Удаленно
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Гибридный
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            В офисе
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Локация
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="Москва"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Москва
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Уфа
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Екатеринбург
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Аккаунт
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="ФИО"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Иванов Иван Сергеевич
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Иванов Иван Иванович
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Иванов Сергей Аккаунтович
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Департамент
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="Департамент управления проектами"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Департамент управления проектами
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Департамент клиентской поддержки
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Департамент HR
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-3 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Заработная плата
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="payment"
+                  id="large"
+                  placeholder="60 000"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-3 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Количество вакансий
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="numberofvacancies"
+                  id="large"
+                  placeholder="3"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Проект
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="project"
+                  id="large"
+                  placeholder="Сбербанк Молл"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="block"
+      >
+        <h3
+          class="fns-typography fns-typography_h3 title"
+        >
+          Требования к компетентности сотрудника
+        </h3>
+        <div
+          class="fns-row block_content"
+        >
+          <div
+            class="fns-col fns-col_xs-12 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Образование
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="Высшее"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Высшее
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Высшее неполное
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Полное среднее
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Среднее профессиональное
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <h5
+            class="fns-typography fns-typography_bold fns-typography_h5 title"
+          >
+            Специальные знания, умения и профессиональные навыки
+          </h5>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Основные навыки
+            </div>
+            <div
+              class="fns-select fns-select_multiple fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="Javascript"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Навык 1
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Навык 2
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Навык 3
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Навык 4
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Дополнительные навыки
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="extraskills"
+                  id="large"
+                  placeholder="Текст"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <h5
+            class="fns-typography fns-typography_bold fns-typography_h5 title"
+          >
+            Опыт работы
+          </h5>
+          <div
+            class="fns-col fns-col_xs-3 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Количество лет
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="1-3"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            1-3
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            3-5
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            5-8
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-9 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Требуемый опыт
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="requiredexperience"
+                  id="large"
+                  placeholder="Опыт в финансовой корпорации"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-12 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Должностные обязанности
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="jobduties"
+                  id="large"
+                  placeholder="Текст"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-4 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              График работы
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="5/2"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            5/2
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            2/2
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            1/3
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-3 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Занятость
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="Полная"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Полная
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Частичная
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-5 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Испытательный срок
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="probation"
+                  id="large"
+                  placeholder="3"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Наличие премирования
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="Да"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Да
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Нет
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="block"
+      >
+        <h3
+          class="fns-typography fns-typography_h3 title"
+        >
+          Информация HR
+        </h3>
+        <div
+          class="fns-row block_content"
+        >
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Сложность
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="complexity"
+                  id="large"
+                  placeholder="Число"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Приоритет
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="priority"
+                  id="large"
+                  placeholder="Число"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-12 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Рекрутер
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="hr"
+                  id="large"
+                  placeholder="Текст"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Номер вакансии из свободного бюджета
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="пока нет на бэке"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                HR партнер
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="hrpartner"
+                  id="large"
+                  placeholder="Текст"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Статус для Аккаунта
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="На рассмотрении"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            На рассмотрении
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Черновик
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            На согласовании
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Отклонена
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            На исполнении
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Согласование с руководством
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Приостановлена
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Исполнена
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Закрыта
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Статус заявки
+            </div>
+            <div
+              class="fns-select fns-select_searching fns-select_fullWidth input"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="На рассмотрении"
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            На рассмотрении
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Черновик
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            На согласовании
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Отклонена
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            На исполнении
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Согласование с руководством
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Приостановлена
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Исполнена
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Закрыта
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Колличество подобранных вакансий
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="numberofdonevacancies"
+                  id="large"
+                  placeholder="Число"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-9 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                ФИО кандидатов
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="applicantsfio"
+                  id="large"
+                  placeholder="Текст"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-3 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Дата выхода на работу
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name=""
+                  id="large"
+                  placeholder="пока нет на бэке"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-9 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Проводящие собеседования
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="interviewers"
+                  id="large"
+                  placeholder="Текст"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-9 col"
+          >
+            <div
+              class="fns-textAreaField fns-textAreaField_fullWidth input"
+            >
+              <label
+                class="fns-textAreaField__label"
+                for="large"
+              >
+                Наставники
+              </label>
+              <div
+                aria-hidden="true"
+                class="fns-textAreaField__formControl"
+              >
+                <textarea
+                  class="fns-textAreaField__input"
+                  data-name="mentors"
+                  id="large"
+                  placeholder="Текст"
+                  style="margin: 5px; height: 0px;"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="fns-row fns-row_end row_buttons"
+      >
+        <button
+          class="fns-button fns-button_fill fns-button_primary btn"
+          type="submit"
+        >
+          <span>
+            Отправить заявку
+          </span>
+        </button>
+      </div>
+    </form>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

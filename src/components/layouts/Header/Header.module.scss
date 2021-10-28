@@ -1,0 +1,25 @@
+.header {
+  margin: 0;
+  padding: 0;
+  box-shadow: 12px 1px 5px 0px #d0d0d0;
+  margin-left: -20px;
+  height: 80px;
+}
+.topBlockWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  width: 150px;
+  margin-left: 15%;
+  margin-top: 17px;
+}
+.menu {
+  display: flex;
+  .item {
+    padding: 25px;
+    cursor: pointer;
+    position: relative;
+  }
+}

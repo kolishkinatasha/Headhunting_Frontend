@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  height: 50px;
+  align-items: center;
+  margin-top: -10px;
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.item {
+  // color: #0057ff;
+  &::after {
+    content: '/';
+    padding: 5px;
+  }
+  &:last-child::after {
+    content: '';
+  }
+}

@@ -1,0 +1,44 @@
+.modal {
+  height: 90vh;
+  overflow: auto;
+  position: relative;
+}
+
+.close_button {
+  left: 30px;
+  color: black;
+  position: sticky;
+  top: 35px;
+  height: 0;
+  width: 101.5%;
+  text-align: right;
+  &:hover {
+    cursor: pointer;
+    color: gray;
+  }
+}
+
+.block {
+  padding: 20px;
+  width: 100%;
+}
+
+.block_content {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.title {
+  text-align: center;
+  border-radius: 3px;
+  position: sticky;
+  top: 0;
+  padding: 20px;
+  width: 100%;
+  height: 75px;
+  margin-bottom: 20px;
+  z-index: 2;
+  background: #0057ff;
+  color: #fff;
+  box-shadow: 1px 3px 4px 0px #f0f0f0;
+}

@@ -1,0 +1,884 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DetailedApplicationCard should be the same 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="block"
+      >
+        <h3
+          class="fns-typography fns-typography_h3 title"
+        >
+          Заявка на подбор №1 от 22.10.2021
+        </h3>
+        <div
+          class="fns-row block_content"
+        >
+          <div
+            class="fns-col fns-col_xs-3 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            />
+            <div
+              class="status"
+              style="background-color: green;"
+            >
+              На рассмотрении
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-9 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            />
+            <div>
+              Иванов Иван HRович
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-4 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Автор заявки
+            </div>
+            <a
+              class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1iwtne7-MuiTypography-root-MuiLink-root"
+            >
+              Иванов Иван Авторович
+            </a>
+          </div>
+          <div
+            class="fns-col fns-col_xs-4 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Руководитель / Аккаунт
+            </div>
+            <a
+              class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1iwtne7-MuiTypography-root-MuiLink-root"
+            >
+              Иванов Сергей Аккаунтович
+            </a>
+          </div>
+          <div
+            class="fns-col fns-col_xs-4 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Рекрутер
+            </div>
+            <a
+              class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1iwtne7-MuiTypography-root-MuiLink-root"
+            >
+              Иванов Иван HRович
+            </a>
+            <p>
+              Дата начала подбора 
+              23.10.2021
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        class="block"
+      >
+        <h3
+          class="fns-typography fns-typography_h3 title"
+        >
+          Информация по вакансии
+        </h3>
+        <div
+          class="fns-row block_content"
+        >
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Вакансия штатного расписания
+            </div>
+            web-разработчик React
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Наименование вакансии для подбора
+            </div>
+            Web-разработчик React
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Основание для подбора
+            </div>
+            Новый проект
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Обоснование
+            </div>
+            Доп текст по проекту
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Характер работы
+            </div>
+            Удаленно
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Локация
+            </div>
+            Москва
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Аккаунт
+            </div>
+            Иванов Сергей Аккаунтович
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Департамент
+            </div>
+            Департамент управления проектами
+          </div>
+          <div
+            class="fns-col fns-col_xs-3 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Заработная плата
+            </div>
+            60000
+          </div>
+          <div
+            class="fns-col fns-col_xs-3 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Количество вакансий
+            </div>
+            2
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Проект
+            </div>
+            HH
+          </div>
+        </div>
+      </div>
+      <div
+        class="block"
+      >
+        <h3
+          class="fns-typography fns-typography_h3 title"
+        >
+          Требования к компетентности сотрудника
+        </h3>
+        <div
+          class="fns-row block_content"
+        >
+          <div
+            class="fns-col fns-col_xs-12 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Образование
+            </div>
+            Высшее
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Основные навыки
+            </div>
+            Javascript
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Дополнительные навыки
+            </div>
+            Доп навыки тут
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Количество лет
+            </div>
+            1-3
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Требуемый опыт
+            </div>
+            Опыт разработки SPA
+          </div>
+          <div
+            class="fns-col fns-col_xs-12 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Должностные обязанности
+            </div>
+            Красить кнопки
+          </div>
+          <div
+            class="fns-col fns-col_xs-5 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              График работы
+            </div>
+            5/2
+          </div>
+          <div
+            class="fns-col fns-col_xs-3 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Занятость
+            </div>
+            Полная
+          </div>
+          <div
+            class="fns-col fns-col_xs-4 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Испытательный срок (в месяцах)
+            </div>
+            3
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Наличие премирования
+            </div>
+            Да
+          </div>
+        </div>
+      </div>
+      <div
+        class="block"
+      >
+        <h3
+          class="fns-typography fns-typography_h3 title"
+        >
+          Информация HR
+        </h3>
+        <div
+          class="fns-row block_content"
+        >
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Приоритет
+            </div>
+            1
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Сложность
+            </div>
+            1
+          </div>
+          <div
+            class="fns-col fns-col_xs-12 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Рекрутер-исполнитель
+            </div>
+            Иванов Иван Партнерович
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Текущий статус для Аккаунта
+            </div>
+            На рассмотрении
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Количество подобранных вакансий
+            </div>
+            2
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              ФИО кандидатов
+            </div>
+            Иванов Иван Заявович
+          </div>
+          <div
+            class="fns-col fns-col_xs-6 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Дата выхода на работу
+            </div>
+          </div>
+          <div
+            class="fns-col fns-col_xs-12 col"
+          >
+            <div
+              class="fns-typography fns-typography_bold input_title"
+            >
+              Проводящие собеседования
+            </div>
+            Иванов Иван Интервьюерович
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="block"
+    >
+      <h3
+        class="fns-typography fns-typography_h3 title"
+      >
+        Заявка на подбор №1 от 22.10.2021
+      </h3>
+      <div
+        class="fns-row block_content"
+      >
+        <div
+          class="fns-col fns-col_xs-3 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          />
+          <div
+            class="status"
+            style="background-color: green;"
+          >
+            На рассмотрении
+          </div>
+        </div>
+        <div
+          class="fns-col fns-col_xs-9 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          />
+          <div>
+            Иванов Иван HRович
+          </div>
+        </div>
+        <div
+          class="fns-col fns-col_xs-4 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Автор заявки
+          </div>
+          <a
+            class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1iwtne7-MuiTypography-root-MuiLink-root"
+          >
+            Иванов Иван Авторович
+          </a>
+        </div>
+        <div
+          class="fns-col fns-col_xs-4 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Руководитель / Аккаунт
+          </div>
+          <a
+            class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1iwtne7-MuiTypography-root-MuiLink-root"
+          >
+            Иванов Сергей Аккаунтович
+          </a>
+        </div>
+        <div
+          class="fns-col fns-col_xs-4 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Рекрутер
+          </div>
+          <a
+            class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1iwtne7-MuiTypography-root-MuiLink-root"
+          >
+            Иванов Иван HRович
+          </a>
+          <p>
+            Дата начала подбора 
+            23.10.2021
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="block"
+    >
+      <h3
+        class="fns-typography fns-typography_h3 title"
+      >
+        Информация по вакансии
+      </h3>
+      <div
+        class="fns-row block_content"
+      >
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Вакансия штатного расписания
+          </div>
+          web-разработчик React
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Наименование вакансии для подбора
+          </div>
+          Web-разработчик React
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Основание для подбора
+          </div>
+          Новый проект
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Обоснование
+          </div>
+          Доп текст по проекту
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Характер работы
+          </div>
+          Удаленно
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Локация
+          </div>
+          Москва
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Аккаунт
+          </div>
+          Иванов Сергей Аккаунтович
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Департамент
+          </div>
+          Департамент управления проектами
+        </div>
+        <div
+          class="fns-col fns-col_xs-3 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Заработная плата
+          </div>
+          60000
+        </div>
+        <div
+          class="fns-col fns-col_xs-3 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Количество вакансий
+          </div>
+          2
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Проект
+          </div>
+          HH
+        </div>
+      </div>
+    </div>
+    <div
+      class="block"
+    >
+      <h3
+        class="fns-typography fns-typography_h3 title"
+      >
+        Требования к компетентности сотрудника
+      </h3>
+      <div
+        class="fns-row block_content"
+      >
+        <div
+          class="fns-col fns-col_xs-12 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Образование
+          </div>
+          Высшее
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Основные навыки
+          </div>
+          Javascript
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Дополнительные навыки
+          </div>
+          Доп навыки тут
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Количество лет
+          </div>
+          1-3
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Требуемый опыт
+          </div>
+          Опыт разработки SPA
+        </div>
+        <div
+          class="fns-col fns-col_xs-12 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Должностные обязанности
+          </div>
+          Красить кнопки
+        </div>
+        <div
+          class="fns-col fns-col_xs-5 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            График работы
+          </div>
+          5/2
+        </div>
+        <div
+          class="fns-col fns-col_xs-3 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Занятость
+          </div>
+          Полная
+        </div>
+        <div
+          class="fns-col fns-col_xs-4 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Испытательный срок (в месяцах)
+          </div>
+          3
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Наличие премирования
+          </div>
+          Да
+        </div>
+      </div>
+    </div>
+    <div
+      class="block"
+    >
+      <h3
+        class="fns-typography fns-typography_h3 title"
+      >
+        Информация HR
+      </h3>
+      <div
+        class="fns-row block_content"
+      >
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Приоритет
+          </div>
+          1
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Сложность
+          </div>
+          1
+        </div>
+        <div
+          class="fns-col fns-col_xs-12 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Рекрутер-исполнитель
+          </div>
+          Иванов Иван Партнерович
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Текущий статус для Аккаунта
+          </div>
+          На рассмотрении
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Количество подобранных вакансий
+          </div>
+          2
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            ФИО кандидатов
+          </div>
+          Иванов Иван Заявович
+        </div>
+        <div
+          class="fns-col fns-col_xs-6 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Дата выхода на работу
+          </div>
+        </div>
+        <div
+          class="fns-col fns-col_xs-12 col"
+        >
+          <div
+            class="fns-typography fns-typography_bold input_title"
+          >
+            Проводящие собеседования
+          </div>
+          Иванов Иван Интервьюерович
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

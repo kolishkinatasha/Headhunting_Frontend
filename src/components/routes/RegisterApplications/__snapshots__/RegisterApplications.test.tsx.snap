@@ -1,0 +1,4136 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RegisterApplications should be the same 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="component"
+      >
+        <div
+          class="box"
+        >
+          <h2
+            class="fns-typography fns-typography_h2 title"
+          >
+            Общий реестр заявок
+          </h2>
+        </div>
+        <div
+          class="wrapper"
+          id="wrapper"
+        >
+          <div
+            class="filter"
+          >
+            <div
+              class="fns-select"
+              style="width: 300px; margin-left: 15px;"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="Выберите вакансию"
+                        readonly=""
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            web-разработчик React
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Разработчик React
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Разработчик PHP
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Разработчик VUE
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="fns-select"
+              style="width: 300px; margin-left: 15px;"
+            >
+              <div
+                class="fns-dropdown fns-dropdown_fullWidth"
+                role="menu"
+                tabindex="-1"
+              >
+                <div
+                  class="fns-dropdown__target"
+                >
+                  <label
+                    class="fns-select__label"
+                  />
+                  <div
+                    class="fns-select__selector"
+                  >
+                    <span
+                      class="fns-select__selection"
+                    >
+                      <input
+                        class="fns-select__input"
+                        placeholder="Выберите город"
+                        readonly=""
+                        type="text"
+                        value=""
+                      />
+                    </span>
+                    <i
+                      class="fns-icon icon-arrow_down_short fns-select__arrow"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="fns-dropdown-content fns-dropdown-content_bottom-left"
+                >
+                  <div
+                    class="fns-dropdown-content__box fns-select__options"
+                  >
+                    <ul
+                      class="fns-menu"
+                    >
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Москва
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Питер
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Екатеринбург
+                          </span>
+                        </a>
+                      </li>
+                      <li
+                        aria-selected="true"
+                        class="fns-menu-item"
+                        role="option"
+                      >
+                        <a
+                          class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                        >
+                          <span>
+                            Уфа
+                          </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <button
+              class="fns-button fns-button_outline fns-button_primary filter_btn"
+              type="button"
+            >
+              <i
+                class="fns-icon icon-filter fns-button__startIcon"
+              />
+              <span>
+                 Отфильтровать
+              </span>
+            </button>
+            <button
+              class="fns-button fns-button_outline fns-button_basic filter_btn"
+              type="button"
+            >
+              <span>
+                 Сбросить фильтр
+              </span>
+            </button>
+          </div>
+          <div
+            class="cards"
+          >
+            <div
+              class="cards"
+            >
+              <section
+                class="banner"
+              >
+                <div
+                  class="banner__content"
+                >
+                  <h1>
+                    Web-разработчик React
+                  </h1>
+                  <h3>
+                    Иванов Иван Заявович
+                  </h3>
+                  <h4>
+                    Москва
+                  </h4>
+                </div>
+                <svg
+                  viewBox="0 0 1280 120"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                    fill-opacity=".2"
+                  />
+                  <path
+                    d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                    fill-opacity=".8"
+                  />
+                  <path
+                    d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                  />
+                </svg>
+              </section>
+              <div
+                class="main_text"
+              >
+                <p>
+                  <strong
+                    style="color: green;"
+                  >
+                    На рассмотрении
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Название вакансии (свободный бюджет): 
+                  <br />
+                  <span
+                    style="margin-left: 0px;"
+                  >
+                    web-разработчик React
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Заработная плата:
+                  <strong>
+                    60000
+                     рублей
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Структурное подразделение:
+                  <strong>
+                    Департамент управления проектами
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата начала подбора:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата выхода кандидата на работу:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Проект:
+                  <span>
+                    HH
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Приоритет:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Сложность:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество вакансий:
+                  <strong>
+                    2
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество подобранных вакансий:
+                  <strong>
+                    2
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Аккаунт:
+                  <span>
+                    Иванов Сергей Аккаунтович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Рекрутёр:
+                  <span>
+                    Иванов Иван HRович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  HR партнёр:
+                  <span>
+                    Иванов Иван Партнерович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Наставники:
+                  <span>
+                    Иванов Иван Менторович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Интервьюер:
+                  <span>
+                    Иванов Иван Интервьюерович
+                  </span>
+                </p>
+              </div>
+              <p
+                style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+              >
+                Опубликовано 
+                22.10.2021
+              </p>
+            </div>
+            <div
+              class="cards"
+            >
+              <section
+                class="banner"
+              >
+                <div
+                  class="banner__content"
+                >
+                  <h1>
+                    Разработчик React
+                  </h1>
+                  <h3>
+                    Иванов Иван Заявович
+                  </h3>
+                  <h4>
+                    Питер
+                  </h4>
+                </div>
+                <svg
+                  viewBox="0 0 1280 120"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                    fill-opacity=".2"
+                  />
+                  <path
+                    d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                    fill-opacity=".8"
+                  />
+                  <path
+                    d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                  />
+                </svg>
+              </section>
+              <div
+                class="main_text"
+              >
+                <p>
+                  <strong
+                    style="color: grey;"
+                  >
+                    Черновик
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Название вакансии (свободный бюджет): 
+                  <br />
+                  <span
+                    style="margin-left: 0px;"
+                  >
+                    Разработчик React
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Заработная плата:
+                  <strong>
+                    60000
+                     рублей
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Структурное подразделение:
+                  <strong>
+                    Департамент управления
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата начала подбора:
+                  <strong>
+                    16.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата выхода кандидата на работу:
+                  <strong>
+                    16.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Проект:
+                  <span>
+                    HH
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Приоритет:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Сложность:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество вакансий:
+                  <strong>
+                    3
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество подобранных вакансий:
+                  <strong>
+                    2
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Аккаунт:
+                  <span>
+                    Иванов Петр Аккаунтович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Рекрутёр:
+                  <span>
+                    Сидоров Иван HRович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  HR партнёр:
+                  <span>
+                    Иванов Иван HRпартнерович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Наставники:
+                  <span>
+                    Иванов Иван Менторович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Интервьюер:
+                  <span>
+                    Иванов Иван Интервьюерович
+                  </span>
+                </p>
+              </div>
+              <p
+                style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+              >
+                Опубликовано 
+                15.10.2021
+              </p>
+            </div>
+            <div
+              class="cards"
+            >
+              <section
+                class="banner"
+              >
+                <div
+                  class="banner__content"
+                >
+                  <h1>
+                    Разработчик React
+                  </h1>
+                  <h3>
+                    Иванов Иван Заявович
+                  </h3>
+                  <h4>
+                    Екатеринбург
+                  </h4>
+                </div>
+                <svg
+                  viewBox="0 0 1280 120"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                    fill-opacity=".2"
+                  />
+                  <path
+                    d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                    fill-opacity=".8"
+                  />
+                  <path
+                    d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                  />
+                </svg>
+              </section>
+              <div
+                class="main_text"
+              >
+                <p>
+                  <strong
+                    style="color: red;"
+                  >
+                    Приостановлена
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Название вакансии (свободный бюджет): 
+                  <br />
+                  <span
+                    style="margin-left: 0px;"
+                  >
+                    Разработчик React
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Заработная плата:
+                  <strong>
+                    60000
+                     рублей
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Структурное подразделение:
+                  <strong>
+                    Департамент управления
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата начала подбора:
+                  <strong>
+                    20.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата выхода кандидата на работу:
+                  <strong>
+                    20.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Проект:
+                  <span>
+                    HH
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Приоритет:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Сложность:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество вакансий:
+                  <strong>
+                    4
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество подобранных вакансий:
+                  <strong>
+                    2
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Аккаунт:
+                  <span>
+                    Петров Дмитрий Аккаунтович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Рекрутёр:
+                  <span>
+                    Петров Иван HRович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  HR партнёр:
+                  <span>
+                    Иванов Иван Партнерович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Наставники:
+                  <span>
+                    Иванов Иван Менторович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Интервьюер:
+                  <span>
+                    Иванов Иван Интервьюерович
+                  </span>
+                </p>
+              </div>
+              <p
+                style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+              >
+                Опубликовано 
+                19.10.2021
+              </p>
+            </div>
+            <div
+              class="cards"
+            >
+              <section
+                class="banner"
+              >
+                <div
+                  class="banner__content"
+                >
+                  <h1>
+                    Разработчик React
+                  </h1>
+                  <h3>
+                    Иванов Иван Заявович
+                  </h3>
+                  <h4>
+                    Уфа
+                  </h4>
+                </div>
+                <svg
+                  viewBox="0 0 1280 120"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                    fill-opacity=".2"
+                  />
+                  <path
+                    d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                    fill-opacity=".8"
+                  />
+                  <path
+                    d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                  />
+                </svg>
+              </section>
+              <div
+                class="main_text"
+              >
+                <p>
+                  <strong
+                    style="color: grey;"
+                  >
+                    Закрыта
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Название вакансии (свободный бюджет): 
+                  <br />
+                  <span
+                    style="margin-left: 0px;"
+                  >
+                    Разработчик React
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Заработная плата:
+                  <strong>
+                    60000
+                     рублей
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Структурное подразделение:
+                  <strong>
+                    Департамент управления
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата начала подбора:
+                  <strong>
+                    6.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата выхода кандидата на работу:
+                  <strong>
+                    6.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Проект:
+                  <span>
+                    HH
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Приоритет:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Сложность:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество вакансий:
+                  <strong>
+                    4
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество подобранных вакансий:
+                  <strong>
+                    2
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Аккаунт:
+                  <span>
+                    Иванов Иван Сергеевич
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Рекрутёр:
+                  <span>
+                    Вольнов Иван HRович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  HR партнёр:
+                  <span>
+                    Иванов Иван HRпартнерович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Наставники:
+                  <span>
+                    Иванов Иван Менторович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Интервьюер:
+                  <span>
+                    Иванов Иван Интервьюерович
+                  </span>
+                </p>
+              </div>
+              <p
+                style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+              >
+                Опубликовано 
+                5.10.2021
+              </p>
+            </div>
+            <div
+              class="cards"
+            >
+              <section
+                class="banner"
+              >
+                <div
+                  class="banner__content"
+                >
+                  <h1>
+                    Разработчик PHP
+                  </h1>
+                  <h3>
+                    Иванов Иван Заявович
+                  </h3>
+                  <h4>
+                    Питер
+                  </h4>
+                </div>
+                <svg
+                  viewBox="0 0 1280 120"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                    fill-opacity=".2"
+                  />
+                  <path
+                    d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                    fill-opacity=".8"
+                  />
+                  <path
+                    d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                  />
+                </svg>
+              </section>
+              <div
+                class="main_text"
+              >
+                <p>
+                  <strong
+                    style="color: green;"
+                  >
+                    На рассмотрении
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Название вакансии (свободный бюджет): 
+                  <br />
+                  <span
+                    style="margin-left: 0px;"
+                  >
+                    Разработчик PHP
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Заработная плата:
+                  <strong>
+                    60000
+                     рублей
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Структурное подразделение:
+                  <strong>
+                    Департамент управления
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата начала подбора:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата выхода кандидата на работу:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Проект:
+                  <span>
+                    HH
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Приоритет:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Сложность:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество вакансий:
+                  <strong>
+                    4
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество подобранных вакансий:
+                  <strong>
+                    2
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Аккаунт:
+                  <span>
+                    Иванов Иван Сергеевич
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Рекрутёр:
+                  <span>
+                    Иванов Иван HRович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  HR партнёр:
+                  <span>
+                    Иванов Иван HRпартнерович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Наставники:
+                  <span>
+                    Иванов Иван Менторович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Интервьюер:
+                  <span>
+                    Иванов Иван Интервьюерович
+                  </span>
+                </p>
+              </div>
+              <p
+                style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+              >
+                Опубликовано 
+                22.10.2021
+              </p>
+            </div>
+            <div
+              class="cards"
+            >
+              <section
+                class="banner"
+              >
+                <div
+                  class="banner__content"
+                >
+                  <h1>
+                    Разработчик VUE
+                  </h1>
+                  <h3>
+                    Иванов Иван Заявович
+                  </h3>
+                  <h4>
+                    Питер
+                  </h4>
+                </div>
+                <svg
+                  viewBox="0 0 1280 120"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                    fill-opacity=".2"
+                  />
+                  <path
+                    d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                    fill-opacity=".8"
+                  />
+                  <path
+                    d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                  />
+                </svg>
+              </section>
+              <div
+                class="main_text"
+              >
+                <p>
+                  <strong
+                    style="color: green;"
+                  >
+                    На рассмотрении
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Название вакансии (свободный бюджет): 
+                  <br />
+                  <span
+                    style="margin-left: 0px;"
+                  >
+                    Разработчик VUE
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Заработная плата:
+                  <strong>
+                    60000
+                     рублей
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Структурное подразделение:
+                  <strong>
+                    Департамент управления
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата начала подбора:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата выхода кандидата на работу:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Проект:
+                  <span>
+                    HH
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Приоритет:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Сложность:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество вакансий:
+                  <strong>
+                    4
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество подобранных вакансий:
+                  <strong>
+                    2
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Аккаунт:
+                  <span>
+                    Иванов Иван Аккаунтович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Рекрутёр:
+                  <span>
+                    Иванов Иван HRович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  HR партнёр:
+                  <span>
+                    Иванов Иван HRпартнерович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Наставники:
+                  <span>
+                    Иванов Иван Менторович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Интервьюер:
+                  <span>
+                    Иванов Иван Интервьюерович
+                  </span>
+                </p>
+              </div>
+              <p
+                style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+              >
+                Опубликовано 
+                22.10.2021
+              </p>
+            </div>
+            <div
+              class="cards"
+            >
+              <section
+                class="banner"
+              >
+                <div
+                  class="banner__content"
+                >
+                  <h1>
+                    Разработчик VUE
+                  </h1>
+                  <h3>
+                    Иванов Иван Заявович
+                  </h3>
+                  <h4>
+                    Питер
+                  </h4>
+                </div>
+                <svg
+                  viewBox="0 0 1280 120"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                    fill-opacity=".2"
+                  />
+                  <path
+                    d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                    fill-opacity=".8"
+                  />
+                  <path
+                    d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                  />
+                </svg>
+              </section>
+              <div
+                class="main_text"
+              >
+                <p>
+                  <strong
+                    style="color: green;"
+                  >
+                    На рассмотрении
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Название вакансии (свободный бюджет): 
+                  <br />
+                  <span
+                    style="margin-left: 0px;"
+                  >
+                    Разработчик VUE
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Заработная плата:
+                  <strong>
+                    60000
+                     рублей
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Структурное подразделение:
+                  <strong>
+                    Департамент управления
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата начала подбора:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата выхода кандидата на работу:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Проект:
+                  <span>
+                    HH
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Приоритет:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Сложность:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество вакансий:
+                  <strong>
+                    4
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество подобранных вакансий:
+                  <strong>
+                    2
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Аккаунт:
+                  <span>
+                    Иванов Иван Аккаунтович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Рекрутёр:
+                  <span>
+                    Иванов Иван HRович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  HR партнёр:
+                  <span>
+                    Иванов Иван HRпартнерович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Наставники:
+                  <span>
+                    Иванов Иван Менторович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Интервьюер:
+                  <span>
+                    Иванов Иван Интервьюерович
+                  </span>
+                </p>
+              </div>
+              <p
+                style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+              >
+                Опубликовано 
+                22.10.2021
+              </p>
+            </div>
+            <div
+              class="cards"
+            >
+              <section
+                class="banner"
+              >
+                <div
+                  class="banner__content"
+                >
+                  <h1>
+                    Разработчик VUE
+                  </h1>
+                  <h3>
+                    Иванов Иван Заявович
+                  </h3>
+                  <h4>
+                    Питер
+                  </h4>
+                </div>
+                <svg
+                  viewBox="0 0 1280 120"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                    fill-opacity=".2"
+                  />
+                  <path
+                    d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                    fill-opacity=".8"
+                  />
+                  <path
+                    d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                  />
+                </svg>
+              </section>
+              <div
+                class="main_text"
+              >
+                <p>
+                  <strong
+                    style="color: green;"
+                  >
+                    На рассмотрении
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Название вакансии (свободный бюджет): 
+                  <br />
+                  <span
+                    style="margin-left: 0px;"
+                  >
+                    Разработчик VUE
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Заработная плата:
+                  <strong>
+                    60000
+                     рублей
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Структурное подразделение:
+                  <strong>
+                    Департамент управления
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата начала подбора:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата выхода кандидата на работу:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Проект:
+                  <span>
+                    HH
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Приоритет:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Сложность:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество вакансий:
+                  <strong>
+                    4
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество подобранных вакансий:
+                  <strong>
+                    2
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Аккаунт:
+                  <span>
+                    Иванов Иван Аккаунтович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Рекрутёр:
+                  <span>
+                    Иванов Иван HRович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  HR партнёр:
+                  <span>
+                    Иванов Иван HRпартнерович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Наставники:
+                  <span>
+                    Иванов Иван Менторович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Интервьюер:
+                  <span>
+                    Иванов Иван Интервьюерович
+                  </span>
+                </p>
+              </div>
+              <p
+                style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+              >
+                Опубликовано 
+                22.10.2021
+              </p>
+            </div>
+            <div
+              class="cards"
+            >
+              <section
+                class="banner"
+              >
+                <div
+                  class="banner__content"
+                >
+                  <h1>
+                    Разработчик VUE
+                  </h1>
+                  <h3>
+                    Иванов Иван Заявович
+                  </h3>
+                  <h4>
+                    Питер
+                  </h4>
+                </div>
+                <svg
+                  viewBox="0 0 1280 120"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                    fill-opacity=".2"
+                  />
+                  <path
+                    d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                    fill-opacity=".8"
+                  />
+                  <path
+                    d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                  />
+                </svg>
+              </section>
+              <div
+                class="main_text"
+              >
+                <p>
+                  <strong
+                    style="color: green;"
+                  >
+                    На рассмотрении
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Название вакансии (свободный бюджет): 
+                  <br />
+                  <span
+                    style="margin-left: 0px;"
+                  >
+                    Разработчик VUE
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Заработная плата:
+                  <strong>
+                    60000
+                     рублей
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Структурное подразделение:
+                  <strong>
+                    Департамент управления
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата начала подбора:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата выхода кандидата на работу:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Проект:
+                  <span>
+                    HH
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Приоритет:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Сложность:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество вакансий:
+                  <strong>
+                    4
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество подобранных вакансий:
+                  <strong>
+                    2
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Аккаунт:
+                  <span>
+                    Иванов Иван Аккаунтович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Рекрутёр:
+                  <span>
+                    Иванов Иван HRович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  HR партнёр:
+                  <span>
+                    Иванов Иван HRпартнерович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Наставники:
+                  <span>
+                    Иванов Иван Менторович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Интервьюер:
+                  <span>
+                    Иванов Иван Интервьюерович
+                  </span>
+                </p>
+              </div>
+              <p
+                style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+              >
+                Опубликовано 
+                22.10.2021
+              </p>
+            </div>
+            <div
+              class="cards"
+            >
+              <section
+                class="banner"
+              >
+                <div
+                  class="banner__content"
+                >
+                  <h1>
+                    Разработчик VUE
+                  </h1>
+                  <h3>
+                    Иванов Иван Заявович
+                  </h3>
+                  <h4>
+                    Питер
+                  </h4>
+                </div>
+                <svg
+                  viewBox="0 0 1280 120"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                    fill-opacity=".2"
+                  />
+                  <path
+                    d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                    fill-opacity=".8"
+                  />
+                  <path
+                    d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                  />
+                </svg>
+              </section>
+              <div
+                class="main_text"
+              >
+                <p>
+                  <strong
+                    style="color: green;"
+                  >
+                    На рассмотрении
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Название вакансии (свободный бюджет): 
+                  <br />
+                  <span
+                    style="margin-left: 0px;"
+                  >
+                    Разработчик VUE
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Заработная плата:
+                  <strong>
+                    60000
+                     рублей
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Структурное подразделение:
+                  <strong>
+                    Департамент управления
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата начала подбора:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Дата выхода кандидата на работу:
+                  <strong>
+                    23.10.2021
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Проект:
+                  <span>
+                    HH
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Приоритет:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Сложность:
+                  <strong>
+                    1
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество вакансий:
+                  <strong>
+                    4
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Количество подобранных вакансий:
+                  <strong>
+                    2
+                  </strong>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Аккаунт:
+                  <span>
+                    Иванов Иван Аккаунтович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Рекрутёр:
+                  <span>
+                    Иванов Иван HRович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  HR партнёр:
+                  <span>
+                    Иванов Иван HRпартнерович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Наставники:
+                  <span>
+                    Иванов Иван Менторович
+                  </span>
+                </p>
+                <p
+                  class="card_text"
+                >
+                  Интервьюер:
+                  <span>
+                    Иванов Иван Интервьюерович
+                  </span>
+                </p>
+              </div>
+              <p
+                style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+              >
+                Опубликовано 
+                22.10.2021
+              </p>
+            </div>
+          </div>
+          <div>
+            <button
+              class="fns-button fns-button_text fns-button_primary fns-button_icon"
+              style="display: none;"
+              type="button"
+            >
+              <i
+                class="fns-icon icon-chevron_up fns-button__startIcon"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="component"
+    >
+      <div
+        class="box"
+      >
+        <h2
+          class="fns-typography fns-typography_h2 title"
+        >
+          Общий реестр заявок
+        </h2>
+      </div>
+      <div
+        class="wrapper"
+        id="wrapper"
+      >
+        <div
+          class="filter"
+        >
+          <div
+            class="fns-select"
+            style="width: 300px; margin-left: 15px;"
+          >
+            <div
+              class="fns-dropdown fns-dropdown_fullWidth"
+              role="menu"
+              tabindex="-1"
+            >
+              <div
+                class="fns-dropdown__target"
+              >
+                <label
+                  class="fns-select__label"
+                />
+                <div
+                  class="fns-select__selector"
+                >
+                  <span
+                    class="fns-select__selection"
+                  >
+                    <input
+                      class="fns-select__input"
+                      placeholder="Выберите вакансию"
+                      readonly=""
+                      type="text"
+                      value=""
+                    />
+                  </span>
+                  <i
+                    class="fns-icon icon-arrow_down_short fns-select__arrow"
+                  />
+                </div>
+              </div>
+              <div
+                class="fns-dropdown-content fns-dropdown-content_bottom-left"
+              >
+                <div
+                  class="fns-dropdown-content__box fns-select__options"
+                >
+                  <ul
+                    class="fns-menu"
+                  >
+                    <li
+                      aria-selected="true"
+                      class="fns-menu-item"
+                      role="option"
+                    >
+                      <a
+                        class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                      >
+                        <span>
+                          web-разработчик React
+                        </span>
+                      </a>
+                    </li>
+                    <li
+                      aria-selected="true"
+                      class="fns-menu-item"
+                      role="option"
+                    >
+                      <a
+                        class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                      >
+                        <span>
+                          Разработчик React
+                        </span>
+                      </a>
+                    </li>
+                    <li
+                      aria-selected="true"
+                      class="fns-menu-item"
+                      role="option"
+                    >
+                      <a
+                        class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                      >
+                        <span>
+                          Разработчик PHP
+                        </span>
+                      </a>
+                    </li>
+                    <li
+                      aria-selected="true"
+                      class="fns-menu-item"
+                      role="option"
+                    >
+                      <a
+                        class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                      >
+                        <span>
+                          Разработчик VUE
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="fns-select"
+            style="width: 300px; margin-left: 15px;"
+          >
+            <div
+              class="fns-dropdown fns-dropdown_fullWidth"
+              role="menu"
+              tabindex="-1"
+            >
+              <div
+                class="fns-dropdown__target"
+              >
+                <label
+                  class="fns-select__label"
+                />
+                <div
+                  class="fns-select__selector"
+                >
+                  <span
+                    class="fns-select__selection"
+                  >
+                    <input
+                      class="fns-select__input"
+                      placeholder="Выберите город"
+                      readonly=""
+                      type="text"
+                      value=""
+                    />
+                  </span>
+                  <i
+                    class="fns-icon icon-arrow_down_short fns-select__arrow"
+                  />
+                </div>
+              </div>
+              <div
+                class="fns-dropdown-content fns-dropdown-content_bottom-left"
+              >
+                <div
+                  class="fns-dropdown-content__box fns-select__options"
+                >
+                  <ul
+                    class="fns-menu"
+                  >
+                    <li
+                      aria-selected="true"
+                      class="fns-menu-item"
+                      role="option"
+                    >
+                      <a
+                        class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                      >
+                        <span>
+                          Москва
+                        </span>
+                      </a>
+                    </li>
+                    <li
+                      aria-selected="true"
+                      class="fns-menu-item"
+                      role="option"
+                    >
+                      <a
+                        class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                      >
+                        <span>
+                          Питер
+                        </span>
+                      </a>
+                    </li>
+                    <li
+                      aria-selected="true"
+                      class="fns-menu-item"
+                      role="option"
+                    >
+                      <a
+                        class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                      >
+                        <span>
+                          Екатеринбург
+                        </span>
+                      </a>
+                    </li>
+                    <li
+                      aria-selected="true"
+                      class="fns-menu-item"
+                      role="option"
+                    >
+                      <a
+                        class="fns-menu-item__link fns-menu-item__link_ellipsis"
+                      >
+                        <span>
+                          Уфа
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <button
+            class="fns-button fns-button_outline fns-button_primary filter_btn"
+            type="button"
+          >
+            <i
+              class="fns-icon icon-filter fns-button__startIcon"
+            />
+            <span>
+               Отфильтровать
+            </span>
+          </button>
+          <button
+            class="fns-button fns-button_outline fns-button_basic filter_btn"
+            type="button"
+          >
+            <span>
+               Сбросить фильтр
+            </span>
+          </button>
+        </div>
+        <div
+          class="cards"
+        >
+          <div
+            class="cards"
+          >
+            <section
+              class="banner"
+            >
+              <div
+                class="banner__content"
+              >
+                <h1>
+                  Web-разработчик React
+                </h1>
+                <h3>
+                  Иванов Иван Заявович
+                </h3>
+                <h4>
+                  Москва
+                </h4>
+              </div>
+              <svg
+                viewBox="0 0 1280 120"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                  fill-opacity=".2"
+                />
+                <path
+                  d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                  fill-opacity=".8"
+                />
+                <path
+                  d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                />
+              </svg>
+            </section>
+            <div
+              class="main_text"
+            >
+              <p>
+                <strong
+                  style="color: green;"
+                >
+                  На рассмотрении
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Название вакансии (свободный бюджет): 
+                <br />
+                <span
+                  style="margin-left: 0px;"
+                >
+                  web-разработчик React
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Заработная плата:
+                <strong>
+                  60000
+                   рублей
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Структурное подразделение:
+                <strong>
+                  Департамент управления проектами
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата начала подбора:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата выхода кандидата на работу:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Проект:
+                <span>
+                  HH
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Приоритет:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Сложность:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество вакансий:
+                <strong>
+                  2
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество подобранных вакансий:
+                <strong>
+                  2
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Аккаунт:
+                <span>
+                  Иванов Сергей Аккаунтович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Рекрутёр:
+                <span>
+                  Иванов Иван HRович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                HR партнёр:
+                <span>
+                  Иванов Иван Партнерович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Наставники:
+                <span>
+                  Иванов Иван Менторович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Интервьюер:
+                <span>
+                  Иванов Иван Интервьюерович
+                </span>
+              </p>
+            </div>
+            <p
+              style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+            >
+              Опубликовано 
+              22.10.2021
+            </p>
+          </div>
+          <div
+            class="cards"
+          >
+            <section
+              class="banner"
+            >
+              <div
+                class="banner__content"
+              >
+                <h1>
+                  Разработчик React
+                </h1>
+                <h3>
+                  Иванов Иван Заявович
+                </h3>
+                <h4>
+                  Питер
+                </h4>
+              </div>
+              <svg
+                viewBox="0 0 1280 120"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                  fill-opacity=".2"
+                />
+                <path
+                  d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                  fill-opacity=".8"
+                />
+                <path
+                  d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                />
+              </svg>
+            </section>
+            <div
+              class="main_text"
+            >
+              <p>
+                <strong
+                  style="color: grey;"
+                >
+                  Черновик
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Название вакансии (свободный бюджет): 
+                <br />
+                <span
+                  style="margin-left: 0px;"
+                >
+                  Разработчик React
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Заработная плата:
+                <strong>
+                  60000
+                   рублей
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Структурное подразделение:
+                <strong>
+                  Департамент управления
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата начала подбора:
+                <strong>
+                  16.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата выхода кандидата на работу:
+                <strong>
+                  16.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Проект:
+                <span>
+                  HH
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Приоритет:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Сложность:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество вакансий:
+                <strong>
+                  3
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество подобранных вакансий:
+                <strong>
+                  2
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Аккаунт:
+                <span>
+                  Иванов Петр Аккаунтович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Рекрутёр:
+                <span>
+                  Сидоров Иван HRович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                HR партнёр:
+                <span>
+                  Иванов Иван HRпартнерович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Наставники:
+                <span>
+                  Иванов Иван Менторович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Интервьюер:
+                <span>
+                  Иванов Иван Интервьюерович
+                </span>
+              </p>
+            </div>
+            <p
+              style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+            >
+              Опубликовано 
+              15.10.2021
+            </p>
+          </div>
+          <div
+            class="cards"
+          >
+            <section
+              class="banner"
+            >
+              <div
+                class="banner__content"
+              >
+                <h1>
+                  Разработчик React
+                </h1>
+                <h3>
+                  Иванов Иван Заявович
+                </h3>
+                <h4>
+                  Екатеринбург
+                </h4>
+              </div>
+              <svg
+                viewBox="0 0 1280 120"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                  fill-opacity=".2"
+                />
+                <path
+                  d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                  fill-opacity=".8"
+                />
+                <path
+                  d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                />
+              </svg>
+            </section>
+            <div
+              class="main_text"
+            >
+              <p>
+                <strong
+                  style="color: red;"
+                >
+                  Приостановлена
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Название вакансии (свободный бюджет): 
+                <br />
+                <span
+                  style="margin-left: 0px;"
+                >
+                  Разработчик React
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Заработная плата:
+                <strong>
+                  60000
+                   рублей
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Структурное подразделение:
+                <strong>
+                  Департамент управления
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата начала подбора:
+                <strong>
+                  20.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата выхода кандидата на работу:
+                <strong>
+                  20.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Проект:
+                <span>
+                  HH
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Приоритет:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Сложность:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество вакансий:
+                <strong>
+                  4
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество подобранных вакансий:
+                <strong>
+                  2
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Аккаунт:
+                <span>
+                  Петров Дмитрий Аккаунтович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Рекрутёр:
+                <span>
+                  Петров Иван HRович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                HR партнёр:
+                <span>
+                  Иванов Иван Партнерович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Наставники:
+                <span>
+                  Иванов Иван Менторович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Интервьюер:
+                <span>
+                  Иванов Иван Интервьюерович
+                </span>
+              </p>
+            </div>
+            <p
+              style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+            >
+              Опубликовано 
+              19.10.2021
+            </p>
+          </div>
+          <div
+            class="cards"
+          >
+            <section
+              class="banner"
+            >
+              <div
+                class="banner__content"
+              >
+                <h1>
+                  Разработчик React
+                </h1>
+                <h3>
+                  Иванов Иван Заявович
+                </h3>
+                <h4>
+                  Уфа
+                </h4>
+              </div>
+              <svg
+                viewBox="0 0 1280 120"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                  fill-opacity=".2"
+                />
+                <path
+                  d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                  fill-opacity=".8"
+                />
+                <path
+                  d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                />
+              </svg>
+            </section>
+            <div
+              class="main_text"
+            >
+              <p>
+                <strong
+                  style="color: grey;"
+                >
+                  Закрыта
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Название вакансии (свободный бюджет): 
+                <br />
+                <span
+                  style="margin-left: 0px;"
+                >
+                  Разработчик React
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Заработная плата:
+                <strong>
+                  60000
+                   рублей
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Структурное подразделение:
+                <strong>
+                  Департамент управления
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата начала подбора:
+                <strong>
+                  6.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата выхода кандидата на работу:
+                <strong>
+                  6.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Проект:
+                <span>
+                  HH
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Приоритет:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Сложность:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество вакансий:
+                <strong>
+                  4
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество подобранных вакансий:
+                <strong>
+                  2
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Аккаунт:
+                <span>
+                  Иванов Иван Сергеевич
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Рекрутёр:
+                <span>
+                  Вольнов Иван HRович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                HR партнёр:
+                <span>
+                  Иванов Иван HRпартнерович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Наставники:
+                <span>
+                  Иванов Иван Менторович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Интервьюер:
+                <span>
+                  Иванов Иван Интервьюерович
+                </span>
+              </p>
+            </div>
+            <p
+              style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+            >
+              Опубликовано 
+              5.10.2021
+            </p>
+          </div>
+          <div
+            class="cards"
+          >
+            <section
+              class="banner"
+            >
+              <div
+                class="banner__content"
+              >
+                <h1>
+                  Разработчик PHP
+                </h1>
+                <h3>
+                  Иванов Иван Заявович
+                </h3>
+                <h4>
+                  Питер
+                </h4>
+              </div>
+              <svg
+                viewBox="0 0 1280 120"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                  fill-opacity=".2"
+                />
+                <path
+                  d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                  fill-opacity=".8"
+                />
+                <path
+                  d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                />
+              </svg>
+            </section>
+            <div
+              class="main_text"
+            >
+              <p>
+                <strong
+                  style="color: green;"
+                >
+                  На рассмотрении
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Название вакансии (свободный бюджет): 
+                <br />
+                <span
+                  style="margin-left: 0px;"
+                >
+                  Разработчик PHP
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Заработная плата:
+                <strong>
+                  60000
+                   рублей
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Структурное подразделение:
+                <strong>
+                  Департамент управления
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата начала подбора:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата выхода кандидата на работу:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Проект:
+                <span>
+                  HH
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Приоритет:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Сложность:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество вакансий:
+                <strong>
+                  4
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество подобранных вакансий:
+                <strong>
+                  2
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Аккаунт:
+                <span>
+                  Иванов Иван Сергеевич
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Рекрутёр:
+                <span>
+                  Иванов Иван HRович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                HR партнёр:
+                <span>
+                  Иванов Иван HRпартнерович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Наставники:
+                <span>
+                  Иванов Иван Менторович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Интервьюер:
+                <span>
+                  Иванов Иван Интервьюерович
+                </span>
+              </p>
+            </div>
+            <p
+              style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+            >
+              Опубликовано 
+              22.10.2021
+            </p>
+          </div>
+          <div
+            class="cards"
+          >
+            <section
+              class="banner"
+            >
+              <div
+                class="banner__content"
+              >
+                <h1>
+                  Разработчик VUE
+                </h1>
+                <h3>
+                  Иванов Иван Заявович
+                </h3>
+                <h4>
+                  Питер
+                </h4>
+              </div>
+              <svg
+                viewBox="0 0 1280 120"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                  fill-opacity=".2"
+                />
+                <path
+                  d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                  fill-opacity=".8"
+                />
+                <path
+                  d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                />
+              </svg>
+            </section>
+            <div
+              class="main_text"
+            >
+              <p>
+                <strong
+                  style="color: green;"
+                >
+                  На рассмотрении
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Название вакансии (свободный бюджет): 
+                <br />
+                <span
+                  style="margin-left: 0px;"
+                >
+                  Разработчик VUE
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Заработная плата:
+                <strong>
+                  60000
+                   рублей
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Структурное подразделение:
+                <strong>
+                  Департамент управления
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата начала подбора:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата выхода кандидата на работу:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Проект:
+                <span>
+                  HH
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Приоритет:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Сложность:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество вакансий:
+                <strong>
+                  4
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество подобранных вакансий:
+                <strong>
+                  2
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Аккаунт:
+                <span>
+                  Иванов Иван Аккаунтович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Рекрутёр:
+                <span>
+                  Иванов Иван HRович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                HR партнёр:
+                <span>
+                  Иванов Иван HRпартнерович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Наставники:
+                <span>
+                  Иванов Иван Менторович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Интервьюер:
+                <span>
+                  Иванов Иван Интервьюерович
+                </span>
+              </p>
+            </div>
+            <p
+              style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+            >
+              Опубликовано 
+              22.10.2021
+            </p>
+          </div>
+          <div
+            class="cards"
+          >
+            <section
+              class="banner"
+            >
+              <div
+                class="banner__content"
+              >
+                <h1>
+                  Разработчик VUE
+                </h1>
+                <h3>
+                  Иванов Иван Заявович
+                </h3>
+                <h4>
+                  Питер
+                </h4>
+              </div>
+              <svg
+                viewBox="0 0 1280 120"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                  fill-opacity=".2"
+                />
+                <path
+                  d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                  fill-opacity=".8"
+                />
+                <path
+                  d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                />
+              </svg>
+            </section>
+            <div
+              class="main_text"
+            >
+              <p>
+                <strong
+                  style="color: green;"
+                >
+                  На рассмотрении
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Название вакансии (свободный бюджет): 
+                <br />
+                <span
+                  style="margin-left: 0px;"
+                >
+                  Разработчик VUE
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Заработная плата:
+                <strong>
+                  60000
+                   рублей
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Структурное подразделение:
+                <strong>
+                  Департамент управления
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата начала подбора:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата выхода кандидата на работу:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Проект:
+                <span>
+                  HH
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Приоритет:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Сложность:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество вакансий:
+                <strong>
+                  4
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество подобранных вакансий:
+                <strong>
+                  2
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Аккаунт:
+                <span>
+                  Иванов Иван Аккаунтович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Рекрутёр:
+                <span>
+                  Иванов Иван HRович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                HR партнёр:
+                <span>
+                  Иванов Иван HRпартнерович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Наставники:
+                <span>
+                  Иванов Иван Менторович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Интервьюер:
+                <span>
+                  Иванов Иван Интервьюерович
+                </span>
+              </p>
+            </div>
+            <p
+              style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+            >
+              Опубликовано 
+              22.10.2021
+            </p>
+          </div>
+          <div
+            class="cards"
+          >
+            <section
+              class="banner"
+            >
+              <div
+                class="banner__content"
+              >
+                <h1>
+                  Разработчик VUE
+                </h1>
+                <h3>
+                  Иванов Иван Заявович
+                </h3>
+                <h4>
+                  Питер
+                </h4>
+              </div>
+              <svg
+                viewBox="0 0 1280 120"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                  fill-opacity=".2"
+                />
+                <path
+                  d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                  fill-opacity=".8"
+                />
+                <path
+                  d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                />
+              </svg>
+            </section>
+            <div
+              class="main_text"
+            >
+              <p>
+                <strong
+                  style="color: green;"
+                >
+                  На рассмотрении
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Название вакансии (свободный бюджет): 
+                <br />
+                <span
+                  style="margin-left: 0px;"
+                >
+                  Разработчик VUE
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Заработная плата:
+                <strong>
+                  60000
+                   рублей
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Структурное подразделение:
+                <strong>
+                  Департамент управления
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата начала подбора:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата выхода кандидата на работу:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Проект:
+                <span>
+                  HH
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Приоритет:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Сложность:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество вакансий:
+                <strong>
+                  4
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество подобранных вакансий:
+                <strong>
+                  2
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Аккаунт:
+                <span>
+                  Иванов Иван Аккаунтович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Рекрутёр:
+                <span>
+                  Иванов Иван HRович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                HR партнёр:
+                <span>
+                  Иванов Иван HRпартнерович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Наставники:
+                <span>
+                  Иванов Иван Менторович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Интервьюер:
+                <span>
+                  Иванов Иван Интервьюерович
+                </span>
+              </p>
+            </div>
+            <p
+              style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+            >
+              Опубликовано 
+              22.10.2021
+            </p>
+          </div>
+          <div
+            class="cards"
+          >
+            <section
+              class="banner"
+            >
+              <div
+                class="banner__content"
+              >
+                <h1>
+                  Разработчик VUE
+                </h1>
+                <h3>
+                  Иванов Иван Заявович
+                </h3>
+                <h4>
+                  Питер
+                </h4>
+              </div>
+              <svg
+                viewBox="0 0 1280 120"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                  fill-opacity=".2"
+                />
+                <path
+                  d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                  fill-opacity=".8"
+                />
+                <path
+                  d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                />
+              </svg>
+            </section>
+            <div
+              class="main_text"
+            >
+              <p>
+                <strong
+                  style="color: green;"
+                >
+                  На рассмотрении
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Название вакансии (свободный бюджет): 
+                <br />
+                <span
+                  style="margin-left: 0px;"
+                >
+                  Разработчик VUE
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Заработная плата:
+                <strong>
+                  60000
+                   рублей
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Структурное подразделение:
+                <strong>
+                  Департамент управления
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата начала подбора:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата выхода кандидата на работу:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Проект:
+                <span>
+                  HH
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Приоритет:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Сложность:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество вакансий:
+                <strong>
+                  4
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество подобранных вакансий:
+                <strong>
+                  2
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Аккаунт:
+                <span>
+                  Иванов Иван Аккаунтович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Рекрутёр:
+                <span>
+                  Иванов Иван HRович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                HR партнёр:
+                <span>
+                  Иванов Иван HRпартнерович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Наставники:
+                <span>
+                  Иванов Иван Менторович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Интервьюер:
+                <span>
+                  Иванов Иван Интервьюерович
+                </span>
+              </p>
+            </div>
+            <p
+              style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+            >
+              Опубликовано 
+              22.10.2021
+            </p>
+          </div>
+          <div
+            class="cards"
+          >
+            <section
+              class="banner"
+            >
+              <div
+                class="banner__content"
+              >
+                <h1>
+                  Разработчик VUE
+                </h1>
+                <h3>
+                  Иванов Иван Заявович
+                </h3>
+                <h4>
+                  Питер
+                </h4>
+              </div>
+              <svg
+                viewBox="0 0 1280 120"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 51.76c36.21-2.25 77.57-3.58 126.42-3.58 320 0 320 57 640 57 271.15 0 312.58-40.91 513.58-53.4V0H0z"
+                  fill-opacity=".2"
+                />
+                <path
+                  d="M0 24.31c43.46-5.69 94.56-9.25 158.42-9.25 320 0 320 89.24 640 89.24 256.13 0 307.28-57.16 481.58-80V0H0z"
+                  fill-opacity=".8"
+                />
+                <path
+                  d="M0 0v3.4C28.2 1.6 59.4.59 94.42.59c320 0 320 84.3 640 84.3 285 0 316.17-66.85 545.58-81.49V0z"
+                />
+              </svg>
+            </section>
+            <div
+              class="main_text"
+            >
+              <p>
+                <strong
+                  style="color: green;"
+                >
+                  На рассмотрении
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Название вакансии (свободный бюджет): 
+                <br />
+                <span
+                  style="margin-left: 0px;"
+                >
+                  Разработчик VUE
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Заработная плата:
+                <strong>
+                  60000
+                   рублей
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Структурное подразделение:
+                <strong>
+                  Департамент управления
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата начала подбора:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Дата выхода кандидата на работу:
+                <strong>
+                  23.10.2021
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Проект:
+                <span>
+                  HH
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Приоритет:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Сложность:
+                <strong>
+                  1
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество вакансий:
+                <strong>
+                  4
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Количество подобранных вакансий:
+                <strong>
+                  2
+                </strong>
+              </p>
+              <p
+                class="card_text"
+              >
+                Аккаунт:
+                <span>
+                  Иванов Иван Аккаунтович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Рекрутёр:
+                <span>
+                  Иванов Иван HRович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                HR партнёр:
+                <span>
+                  Иванов Иван HRпартнерович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Наставники:
+                <span>
+                  Иванов Иван Менторович
+                </span>
+              </p>
+              <p
+                class="card_text"
+              >
+                Интервьюер:
+                <span>
+                  Иванов Иван Интервьюерович
+                </span>
+              </p>
+            </div>
+            <p
+              style="color: rgb(196, 196, 196); text-align: right; margin: 10px 5px;"
+            >
+              Опубликовано 
+              22.10.2021
+            </p>
+          </div>
+        </div>
+        <div>
+          <button
+            class="fns-button fns-button_text fns-button_primary fns-button_icon"
+            style="display: none;"
+            type="button"
+          >
+            <i
+              class="fns-icon icon-chevron_up fns-button__startIcon"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

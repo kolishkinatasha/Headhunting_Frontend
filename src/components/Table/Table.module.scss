@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+.table_box {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+.top_block {
+  display: flex;
+  margin-left: -250px;
+  justify-content:baseline;
+
+}
+

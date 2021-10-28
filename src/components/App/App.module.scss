@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  font-family: Roboto,sans-serif;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: Roboto, sans-serif;
+}
+
+:global(.fns-card) {
+  box-shadow: 0 1px 4px rgba(26, 26, 26, 0.08);
+  border-radius: 8px;
+  padding: 40px;
+  background-color: #fff;
+}
+a {
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,22 @@
+.box {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom: 0.1px solid #fff;
+  margin-top: -30px;
+  box-shadow: 0 5px 5px -7px rgba(0, 87, 255, .5);
+}
+.buttonBox {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  align-items: center;
+}
+.title {
+  margin: 20px 0px;
+}
+.buttons {
+  margin: 10px 0px 10px 10px;
+}
